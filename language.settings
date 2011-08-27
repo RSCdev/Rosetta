@@ -1,0 +1,10 @@
+{
+	"default":"english",
+	
+	"languages":
+	[
+		"english",
+		"french",
+		"german"
+	]
+}
